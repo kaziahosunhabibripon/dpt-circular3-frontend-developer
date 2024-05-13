@@ -1,8 +1,18 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[
 
-Currently, two official plugins are available:
+# Tools and Technology I used here
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# React with tailwind css React Router dom version 6 React icons react prop types
+
+]
+
+[ # To Run this code
+-- At first download or clone the repository
+-- Git clone repository
+-- Then go through the repository by cd flightBookin-app
+-- Then run this command npm install
+-- After that to see the code run this command npm run dev
+
+]
